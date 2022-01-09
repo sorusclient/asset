@@ -2,6 +2,9 @@
     "module": {
         "perspective": {
             "enabled": false
+        },
+        "toggleSprintSneak": {
+            "toggleSneak": false
         }
     }
 }
