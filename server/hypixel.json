@@ -9,7 +9,7 @@
     },
     "autogg": {
         "triggers": [
-            "Winner"
+            "WINNER"
         ]
     }
 }
