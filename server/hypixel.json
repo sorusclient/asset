@@ -6,10 +6,5 @@
         "toggleSprintSneak": {
             "toggleSneak": false
         }
-    },
-    "autogg": {
-        "triggers": [
-            "WINNER"
-        ]
     }
 }
