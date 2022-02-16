@@ -6,13 +6,10 @@
         "toggleSprintSneak": {
             "toggleSneak": false
         }
-<<<<<<< HEAD
-=======
     },
     "autogg": {
         "triggers": [
-            "Winner"
+            "WINNER"
         ]
->>>>>>> parent of 50c6123 (AutoGG: Update Winner Trigger)
     }
 }
