@@ -10,6 +10,7 @@
     "autogg": {
         "triggers": [
             "WINNER"
-        ]
+        ],
+        "command": "/achat gg"
     }
 }
