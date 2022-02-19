@@ -1,7 +1,7 @@
 {
-    "module": {
-        "perspective": {
-            "enabled": false
+    "settings": {
+        "Perspective": {
+            "Enabled": false
         },
         "toggleSprintSneak": {
             "toggleSneak": false
