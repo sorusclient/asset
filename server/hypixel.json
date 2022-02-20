@@ -1,7 +1,7 @@
 {
     "settings": {
-        "Perspective": {
-            "Enabled": false
+        "perspective": {
+            "enabled": false
         },
         "toggleSprintSneak": {
             "toggleSneak": false
