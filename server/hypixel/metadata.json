@@ -14,5 +14,6 @@
         "command": "/achat gg"
     },
     "ip": "hypixel.net",
-    "name": "Hypixel"
+    "name": "Hypixel",
+    "logo": "logo.png"
 }
