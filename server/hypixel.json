@@ -12,5 +12,7 @@
             "WINNER"
         ],
         "command": "/achat gg"
-    }
+    },
+    "ip": "hypixel.net",
+    "name": "Hypixel"
 }
