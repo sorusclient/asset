@@ -1,0 +1,6 @@
+{
+	"name": "Test",
+	"description": "A plugin that adds all of the amazing tests.",
+	"version": "0.0.1",
+	"jar": "plugin.jar"
+}
